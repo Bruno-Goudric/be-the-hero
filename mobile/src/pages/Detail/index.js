@@ -36,7 +36,7 @@ export default function Detail(){
                 <Image source={logoImg} />
                 
                 <TouchableOpacity onPress={navigateBack}>
-                    <Feather name="arrow-left" sixe={28} color="E02041" />
+                    <Feather name="arrow-left" sixe={28} color="#E02041" />
                 </TouchableOpacity>
             </View>
             <View style={styles.incident}>

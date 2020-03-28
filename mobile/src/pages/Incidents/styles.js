@@ -10,7 +10,7 @@ export default StyleSheet.create({
     },
 
     header: {
-        flexDirectio: 'row',
+        flexDirection: 'row',
         justifyContent: 'space-between',
         alignItems: 'center'
     },
