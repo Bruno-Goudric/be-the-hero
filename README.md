@@ -29,7 +29,7 @@ Clone o projeto em seu computador. Para instalar as dependências e executar o *
 ```bash
 cd backend
 npm install
-npm dev
+npm start
 ```
 
 ### Instalação - Frontend (WEB)
@@ -55,10 +55,6 @@ npm start
 ```
 
 Assim que o processo terminar, automaticamente será aberta no seu navegador a página `localhost:19002`. Conecte seu emulador, ou teste o aplicativo por `LAN`: baixe o aplicativo *Expo* da Play Store ou App Store e em seguida escaneie o código QR.
-
-
-### Insomnia 
-Para testar a API do Be The Hero, baixe e instale o [Insomnia](https://insomnia.rest/download/) e em seguida clique na Workspace → `Import/Export` → `Import Data` → `From File` → e selecione o arquivo ` 	Insomnia_export.json` deste repositório.
 
 ## Licença
 
