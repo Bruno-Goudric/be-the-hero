@@ -1,10 +1,7 @@
 <h1 align="center"> Semana Omnistack 11.0 </h1>
-<p align="center"> 🚀 Be The Hero: Aplicação desenvolvida na 11° Semana Ominstack feito pela Rocketseat.
+![](images/heroes.png)
+<p align="center"> 🚀 Be The Hero: Aplicação desenvolvida na 11° Semana Ominstack feito pela Rocketseat.</p>
 
-</p>
-<p align="center">
-    ![](images/heroes.png)
-<p>
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
