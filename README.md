@@ -1,5 +1,6 @@
 <h1 align="center"> Semana Omnistack 11.0 </h1>
-![](images/heroes.png)
+![](frontend/src/assets/heroes.png)
+
 <p align="center"> 🚀 Be The Hero: Aplicação desenvolvida na 11° Semana Ominstack feito pela Rocketseat.</p>
 
 <p align="center">
